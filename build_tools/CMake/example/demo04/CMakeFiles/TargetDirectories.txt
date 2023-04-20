@@ -1,0 +1,6 @@
+E:/github/coding/build_tools/CMake/example/demo04/CMakeFiles/Demo.dir
+E:/github/coding/build_tools/CMake/example/demo04/CMakeFiles/edit_cache.dir
+E:/github/coding/build_tools/CMake/example/demo04/CMakeFiles/rebuild_cache.dir
+E:/github/coding/build_tools/CMake/example/demo04/math/CMakeFiles/MathFunctions.dir
+E:/github/coding/build_tools/CMake/example/demo04/math/CMakeFiles/edit_cache.dir
+E:/github/coding/build_tools/CMake/example/demo04/math/CMakeFiles/rebuild_cache.dir

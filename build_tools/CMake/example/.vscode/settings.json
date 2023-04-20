@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "math_functions.h": "c",
+        "config.h": "c"
+    }
+}

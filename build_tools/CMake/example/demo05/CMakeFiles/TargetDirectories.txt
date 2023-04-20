@@ -1,0 +1,16 @@
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/Demo.dir
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/test.dir
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/edit_cache.dir
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/rebuild_cache.dir
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/list_install_components.dir
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/install.dir
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/install/local.dir
+E:/github/coding/build_tools/CMake/example/demo05/CMakeFiles/install/strip.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/MathFunctions.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/test.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/edit_cache.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/rebuild_cache.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/list_install_components.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/install.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/install/local.dir
+E:/github/coding/build_tools/CMake/example/demo05/math/CMakeFiles/install/strip.dir
